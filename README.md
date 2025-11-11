@@ -1,7 +1,7 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 
-# Register no.:
+# Date: 11.11.25
+# Register no.: 212222083008
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
@@ -32,6 +32,104 @@ Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
 
+# Create Simple Prompts for Video Generation
+Start with basic prompts focused on the main subject or scene.
+
+## Example Prompt:
+"A person walking in a park."
+
+## Output Goal: A short video illustrating a simple scenario.
+
+# Experiment with More Detailed Prompts
+Incorporate more contextual detail:
+
+Setting
+
+Clothing
+
+Background elements
+
+Companion entities
+
+## Refined Prompt:
+"A person in a red jacket walking along a sunny park path, with birds flying in the sky, and a dog running beside them."
+
+## Output Goal: Evaluate if tools respond well to rich visual descriptions.
+
+# Add Time and Motion Elements
+Introduce temporal dynamics and camera behaviors:
+
+Time-lapse
+
+Zoom, pan, rotate
+
+Scene transitions
+
+## Prompt with motion:
+"A time-lapse video of the sun setting over the ocean, with the camera slowly zooming out from a beach, capturing the waves and changing colors in the sky."
+
+## Check: How accurately does the model simulate motion or transitions?
+
+# Test Different Video Styles
+Try prompts in different genres:
+
+Animation
+
+Cinematic/live-action
+
+Abstract/artistic
+
+Educational/tutorial
+
+## Style-Specific Prompt:
+"An animated scene of a futuristic city at night, with glowing neon lights, flying cars, and a bustling crowd of people."
+
+## Observe: Style fidelity, color tones, realism vs abstraction.
+
+# Iterate and Adjust Prompts
+Refine prompts based on:
+
+Pacing
+
+Frame transitions
+
+Object motion or expression
+
+Scene continuity
+
+## Revised Prompt:
+"A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene with dynamic camera angles."
+
+## Action: Compare new output to previous versions.
+
+# Generate Multiple Versions per Prompt
+Create slight variations of the same prompt:
+
+Synonym changes
+
+Reordering of elements
+
+Swapping descriptors
+
+## Prompts like:
+
+“A dog chasing a frisbee in a sunny backyard.”
+
+“In a sunlit garden, a playful dog leaps to catch a frisbee.”
+
+## Output Goal: Identify how phrasing impacts generation quality and interpretation.
+
+# Save and Compare Outputs:
+
+![image](https://github.com/user-attachments/assets/b9e37631-5a60-4b3c-891e-d9bc9173252b)
+
+# google drive link:
+https://drive.google.com/file/d/1igFomUvociTc9c_c9eJGqk1meG0AVs4e/view?usp=sharing
+
+https://drive.google.com/file/d/1h7z0swbO49qrZxeai86iim1m1V3AHvSA/view?usp=sharing
+
+https://drive.google.com/file/d/1PFCtzrspqpaSHBZ6usDEE9A24Reo2y88/view?usp=sharing
+
 # Result: The Prompt of the above task executed successfully
 
 
@@ -41,6 +139,4 @@ Save different versions of the videos and compare the results to understand how 
 
 
 
-
-# Result:
 
