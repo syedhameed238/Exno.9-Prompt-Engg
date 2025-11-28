@@ -1,7 +1,7 @@
 # 🧩 Exno.9 — To Explore and Understand the Various Prompting Techniques Used for Generating Videos through AI Models  
 
 ### 🗓️ Date: 11-11-25
-### 🧾 Register No.:  212223060265
+### 🧾 Register No.:  212222083008
 
 ---
 
